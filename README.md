@@ -5,20 +5,9 @@
 Me chamo Wesley Luiz, tenho 23 anos e sou natural de São Paulo. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na UNIFAFIRE. Sou apaixonado por tecnologia, processos e projetos!
 
 <p align="left">
-    <a href="https://github.com/wesley-luiz03">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/Larissakich?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
-    <a href="https://www.linkedin.com/in/wesley-luiz-7a791b24b/">
-        <img 
-            alt="LinkedIn" 
-            title="Conecte-se comigo!" 
-            src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" />
-        />
-    </a>
+    
+  <a href="https://www.linkedin.com/in/wesley-luiz-7a791b24b/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/yRpa1dQ.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
     
 </p>
 
